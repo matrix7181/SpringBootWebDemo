@@ -1,3 +1,0 @@
-2017-07-04 23:37:08 jdbc[12]: exception
-org.h2.jdbc.JdbcSQLException: Data conversion error converting "'pero' (USERS: ACTIVE BOOLEAN NOT NULL)"; SQL statement:
-insert into users values (null, 'pero', 'mutivoda', 'emem1@asdasd.com', 1) -- (NULL, 'pero', 'mutivoda', 'emem1@asdasd.com', 1) [22018-195]
